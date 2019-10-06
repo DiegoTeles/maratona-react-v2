@@ -2,6 +2,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+1. primeiro
+2. terceiro
+3. segundo
+4. quarto
+
+```js
+console.log("comentario");
+```
+
+```css
+.body {
+  color: red;
+}
+```
+
 In the project directory, you can run:
 
 ### `yarn start`
